@@ -1,0 +1,5 @@
+# macro_monitor
+# Optimized dependencies for Streamlit Cloud deployment
+
+python-bcb
+pandas
